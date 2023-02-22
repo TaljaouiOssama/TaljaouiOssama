@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaljaouiOssama
-- 👀 I love to learn and code all things Java
+- 👀 I love to learn and code all things Java,Javascript,Devops,Cloud
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
