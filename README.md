@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaljaouiOssama
-- 👀 I love to learn and code all things Java,Javascript,Devops,Cloud
-- 🌱 I’m currently working with Qwik framework
+- 👀 I love to learn and code all things Javascript
+- 🌱 I’m currently working with ReactJS framework
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/ossama-taljaoui/
